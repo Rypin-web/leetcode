@@ -4,7 +4,7 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "easy": "node ./Easy/2727.js",
+    "easy": "node ./Easy/2726.js",
     "medium": "node ./Medium/7.js"
   },
   "keywords": [],
